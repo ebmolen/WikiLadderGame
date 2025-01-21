@@ -3,6 +3,9 @@
 ## Project: WikiLadder
 ## Team Members: Elisabeth Molen and Sam Miller Phillips
 
+### Project Description
+- A project to build the path from one Wikipedia article page to another.
+
 ### Compile/Execute:
 - To use the cpr library we had to use cmake rather than a Makefile.
 - To run things:
